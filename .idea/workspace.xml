@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="253cbf28-2eaa-47fc-b49d-9abfde50c77e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/snap/go/current" />
+  <component name="ProjectId" id="1aMGit7KRSFcwrPFY4qdvzIWPoP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/binaryonly/bin" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/binaryonly/bin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/binaryonly" />
+      <recent name="$PROJECT_DIR$/binaryonly/bin/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestParseFlags in rflags" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="Lesson7.2" />
+      <working_directory value="$PROJECT_DIR$/reflectflags/rflags" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="rflags" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestParseFlags$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestParseFlags in rflags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1986" y="345" width="500" height="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586541390316">
+      <screen x="0" y="0" width="3200" height="1080" />
+    </state>
+    <state x="1986" y="345" width="500" height="389" key="#com.intellij.fileTypes.FileTypeChooser/0.0.3200.1080@0.0.3200.1080" timestamp="1586541390316" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom" timestamp="1586548529581">
+      <screen x="0" y="0" width="3200" height="1080" />
+    </state>
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/0.0.3200.1080@0.0.3200.1080" timestamp="1586548529581" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center" timestamp="1586548529581">
+      <screen x="0" y="0" width="3200" height="1080" />
+    </state>
+    <state width="1878" height="289" key="GridCell.Tab.0.center/0.0.3200.1080@0.0.3200.1080" timestamp="1586548529581" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left" timestamp="1586548529580">
+      <screen x="0" y="0" width="3200" height="1080" />
+    </state>
+    <state width="1878" height="289" key="GridCell.Tab.0.left/0.0.3200.1080@0.0.3200.1080" timestamp="1586548529580" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right" timestamp="1586548529581">
+      <screen x="0" y="0" width="3200" height="1080" />
+    </state>
+    <state width="1878" height="289" key="GridCell.Tab.0.right/0.0.3200.1080@0.0.3200.1080" timestamp="1586548529581" />
+    <state x="1903" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1586542040309">
+      <screen x="0" y="0" width="3200" height="1080" />
+    </state>
+    <state x="1903" y="239" width="672" height="678" key="search.everywhere.popup/0.0.3200.1080@0.0.3200.1080" timestamp="1586542040309" />
+  </component>
+</project>
