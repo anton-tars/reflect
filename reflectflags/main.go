@@ -15,5 +15,6 @@ func main() {
 type Flags struct {
 	Source string `rflag:"source,s,src"`
 	Debug  bool   `rflag:"debug,d"`
+	Number int    `rflag:"a"`
 	Output string
 }

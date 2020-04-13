@@ -3,6 +3,7 @@ package rflags
 import (
 	"fmt"
 	"reflect"
+	"strconv"
 	"strings"
 )
 
@@ -36,6 +37,9 @@ func ParseFlags(str interface{}, args []string) error {
 		switch fieldT.Type.Kind() {
 		case reflect.String:
 			fieldV.SetString(flags[flag])
+		case reflect.Int, reflect.Int64:
+			v, _ := strconv.ParseInt(flags[flag], 10, 64)
+			fieldV.SetInt(v)
 		case reflect.Bool:
 			fieldV.SetBool(true)
 		default:
@@ -43,7 +47,7 @@ func ParseFlags(str interface{}, args []string) error {
 		}
 	}
 
-return nil
+	return nil
 }
 
 type Aliases map[string]int
